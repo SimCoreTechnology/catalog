@@ -34,7 +34,7 @@ Please create the following:
 
 #### Considerations ####
 
-While this is a simple product catalog. Product Type's needs to be a consideration, and each product type will have different attributes.
+While this is a simple product catalog. Product Type's need to be a consideration, and each product type will have different attributes.
 
 Product Types the system should support:
 
