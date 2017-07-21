@@ -45,6 +45,9 @@ Product Types the system should support:
 
 Please be creative when coming up with unique attributes for each set.
 
+For time consideration, stub out business logic, and add TODO's to go into more detail on what you will need to add to flesh out methods.
+As time permits, go back and add in business logic to flesh out methods. Since this test isn't being judged on time spent, we want to make sure you get your thoughts and ideas in code, one way or another.
+
 ### Time of Interview ###
 
 Please be prepared to demo this project, and be able to explain your code decisions.
