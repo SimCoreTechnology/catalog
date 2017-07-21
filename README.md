@@ -2,6 +2,8 @@
 
 Catalog, is a bare bones Laravel application designed to be a starting place for a backend code test.
 
+Please track your time on this project, as we will want to refine this test over time if we feel it's too much of a time commitment.
+
 ### What is this repository for? ###
 
 Candidates for SimCore Technologies backend software engineer positions.
@@ -16,9 +18,12 @@ The goal of this project is to create an API backend for creating and retrieving
 
 There should be no front end, except for raw JSON responses. 
 
-A DB is not required, as this project should use only Dummy Data.
+A DB is not required. However, using sqlite, or static json files to store dummy data may make life easier. 
+If you choose to use SQLite please use migrations and seeds appropriately.
 
 While this will be an API, it does not require authentication for this test.
+
+Please write unit tests for all end points. (again use dummy data)
 
 Please create the following:
 
@@ -38,7 +43,11 @@ Product Types the system should support:
 * Periodicles
 * Academic Journals
 
-Please be creative when comming up with unique attributes for each set.
+Please be creative when coming up with unique attributes for each set.
+
+### Time of Interview ###
+
+Please be prepared to demo this project, and be able to explain your code decisions.
 
 ### Who do I talk to? ###
 
