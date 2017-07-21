@@ -4,13 +4,13 @@ Catalog, is a bare bones Laravel application designed to be a starting place for
 
 Please track your time on this project, as we will want to refine this test over time if we feel it's too much of a time commitment.
 
-### What is this repository for? ###
+### Who is this repository for? ###
 
-Candidates for SimCore Technologies backend software engineer positions.
+Candidates for a backend software engineer positions at SimCore Technologies.
 
 ### How do I get set up? ###
 
-Follow instructions at laravel.com to get everything setup and running.
+Follow instructions at [Laravel.com](https://laravel.com/docs/5.4) to get everything setup and running.
 
 ### Code Test Instructions ###
 
