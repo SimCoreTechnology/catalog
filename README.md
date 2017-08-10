@@ -27,7 +27,7 @@ Please write unit tests for all end points. (again use dummy data)
 
 Please create the following:
 
-* Standardized API end points.
+* REST API end points.
 * Create an end point that will create a product of a certain type by receiving a json string.
 * Create an end point that will return a list of products in the system. 
 * Create an end point that will return the details of a single product.
